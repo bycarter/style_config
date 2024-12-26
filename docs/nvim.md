@@ -1,4 +1,4 @@
-```markdown
+
 # Neovim Configuration Guide
 
 ## Overview

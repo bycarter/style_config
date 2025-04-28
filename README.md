@@ -40,3 +40,5 @@ cd dev-config
 - NERDTree file explorer
 - Essential syntax plugins
 - Git integration
+-
+tada-
